@@ -1,3 +1,5 @@
+# JS生成大量假数据
+
 # faker.js - generate massive amounts of fake data in the browser and node.js
 
 ![Faker.js](https://raw.githubusercontent.com/Marak/faker.js/master/logo.png)
